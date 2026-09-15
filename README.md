@@ -1,4 +1,5 @@
 ## Hi there 👋
-## Names CJ, I Own and Operate CJIT Solutions.
+## Name = CJ, 
+## Owner of CJIT Solutions.
 
 ## CHECK OUT MY [PROJECTS]
