@@ -41,19 +41,6 @@
 
 > These are projects and areas of development, not claims that every system is publicly released or production-ready.
 
-### `[03] GitHub telemetry`
-
-<!-- Update USERNAME to your real GitHub username in the two URLs below. -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=github_dark)
-
-**Profile workflow:** ![Profile validation](https://github.com/USERNAME/USERNAME/actions/workflows/profile.yml/badge.svg)
-
-<!-- PROFILE_UPDATED_START -->
-**Last automated profile validation:** Pending first successful workflow run.
-<!-- PROFILE_UPDATED_END -->
-
 ### `[04] Company & contact`
 
 **CJIT Solutions** — [cjitsystems.com](https://cjitsystems.com)  
