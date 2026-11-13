@@ -8,15 +8,15 @@
 
 ```text
 ╔══════════════════════ CJIT DEVELOPER TERMINAL ══════════════════════╗
-║ [ONLINE]  Christopher J. Knapchuck (CJ)                             ║
+║ [ONLINE]  CHRIS K.                                                  ║
 ║ [ROLE]    Systems Engineering | Software | AI Solutions             ║
-║ [EDU]     Associate Degree: Computer Science & Network Engineering ║
+║ [EDU]     Associate Degree: Computer Science & Network Engineering  ║
 ║ [HISTORY] HomeNET Services, LLC → CJIT Solutions                    ║
 ║ [FOCUS]   Build reliable, useful, maintainable technology           ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-### `[01] Engineering experience`
+### `[01] CJIT Engineering Experience`
 
 ```text
 [+] Software       C# / .NET · Python · PowerShell · C++ · JavaScript · SQL
@@ -28,10 +28,10 @@
 [+] Operations     Managed IT · Retail POS · CCTV/NVR · Monitoring
 ```
 
-### `[02] Project registry`
+### `[02] CJIT PROJECTS SHORT LIST`
 
 | Project | Engineering focus |
-|---|---|
+|  ---    |        ---        |
 | CJIT Mainframe | IBM i-inspired business system |
 | CJIT Commerce | Invoicing and business operations |
 | ProjectHub Ops | Project operations and visibility |
