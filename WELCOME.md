@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @Developer-CJ
-- 👀 I’m fluent in C++ , LUA and more
-- 🌱 I have alot of certifications!
-- 💞️ Check out my company website > https://cjitsystems.com
-- 📫 How to reach me chris@cjitservices.tech
+# WELCOME TO CJIT DEVELOPMENT!!
 
+# FOUNDER/CEO/CFO: CHRIS KNAPCHUCK
+**Founder & Principal Systems Engineer · Software Developer · AI Solutions Engineer**  
+**CJIT Solutions** · Formerly **HomeNET Services, LLC** · Michigan, USA
+
+
+https://cjitservices.tech - WEBSITE
+https://store.cjitservices.tech - STORE
+https://helpme.cjitservices.tech - HELP
+
+_________________________________
+> **Infrastructure Done Right.**  
+> Plan. Test. Deliver. Support.
